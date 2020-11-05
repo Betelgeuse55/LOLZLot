@@ -1,0 +1,9 @@
+beautifulsoup4
+certifi
+chardet
+idna
+Pillow
+pytesseract
+requests
+soupsieve
+urllib3
